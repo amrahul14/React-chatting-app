@@ -1,9 +1,5 @@
 # Chatting App
 
-![App Logo](link-to-your-logo-image.png)
-
-## Overview
-
 Welcome to the Chatting App! This application provides a real-time chat experience, allowing users to exchange messages and images one-on-one within the application.
 
 ## Features
@@ -22,7 +18,7 @@ Welcome to the Chatting App! This application provides a real-time chat experien
 
 To get started with the Chatting App, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/chatting-app.git`
+1. Clone the repository: `git clone https://github.com/amrahul14/chatting-app.git`
 2. Install dependencies: `npm install` (or `yarn install`)
 3. Start the application: `npm start` (or `yarn start`)
 
@@ -30,15 +26,15 @@ To get started with the Chatting App, follow these steps:
 
 ### Login Page
 
-![Login Page](link-to-login-image.png)
+![Login Page](src/img/login.png)
 
 ### Register Page
 
-![Register Page](link-to-register-image.png)
+![Register Page](src/img/register.png)
 
 ### Home Page
 
-![Home Page](link-to-home-image.png)
+![Home Page](src/img/home.png)
 
 ## Usage
 
@@ -56,12 +52,8 @@ We welcome contributions! If you'd like to contribute to the project, please fol
 4. Push to the branch: `git push origin feature/new-feature`
 5. Submit a pull request.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE.md).
-
 ## Contact
 
-If you have any questions or issues, feel free to reach out to us at [your-email@example.com](mailto:your-email@example.com).
+If you have any questions or issues, feel free to reach out to us at [rahul15kumar9708@gmail.com](mailto:rahul15kumar9708@gmail.com).
 
 Happy chatting!
